@@ -1,0 +1,19 @@
+.orders-container{
+    width: 45%;
+    background-color:#E8F8F5;
+    margin: auto;
+    float:right;
+    height: 655px; 
+}
+
+.form-container{
+    background-color: #BFC9CA;
+    height: 30%; 
+    margin: 20px;
+}
+
+.list-container{
+    margin: 20px;
+    height: 50%; 
+    padding: 10px;
+}

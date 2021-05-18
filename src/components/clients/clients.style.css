@@ -1,0 +1,17 @@
+.clients-container{
+    width: 45%;
+    background-color: #EAF2F8;
+    float:left;
+    height: 655px; 
+}
+
+.form-container{
+    height: 30%; 
+    margin: 20px;
+}
+
+.list-container{
+    border-style:groove;
+    margin: 20px;
+    height: 50%; 
+}
